@@ -1,6 +1,11 @@
 # BrewerySupplyChainDapp
-A prototype supply chain dapp for breweries
 
+Part of the Udacity Blockchain course. This is a prototype supply chain
+decentralized application (dapp) for breweries that allows someone to manage
+and audit blockchain product ownership as the product is transferred down
+the supply chain.
+
+------------------------------------------------------------------------------
 
 Rinkeby Contract Address needed.
 
