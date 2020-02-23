@@ -1,9 +1,12 @@
 # BrewerySupplyChainDapp
 
-Part of the Udacity Blockchain course. This is a prototype supply chain
-decentralized application (dapp) for breweries that allows someone to manage
-and audit blockchain product ownership as the product is transferred down
-the supply chain.
+Part of the Udacity Blockchain course. Spent time learning and applying
+event driven architecture with modern blockchain design by creating
+a prototype decentralized application (dapp). The application allows
+someone to manage and audit blockchain product ownership as the product
+is transferred down the supply chain (ex. from growing hops to distributing
+to customers). Technologies include Node.js, Leveldb, Solidity, and Ethereum
+smart contracts.
 
 ------------------------------------------------------------------------------
 
